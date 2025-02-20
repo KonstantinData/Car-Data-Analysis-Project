@@ -17,24 +17,6 @@ This project analyzes car dataset(s) to extract insights related to pricing, spe
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/car-data-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd car-data-analysis
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
 ## Dataset
 - The dataset contains car attributes such as price, mileage, brand, model, year, and fuel type.
 - Ensure that the dataset is placed in the appropriate folder before running the analysis.
