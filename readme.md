@@ -1,4 +1,3 @@
-```markdown
 # 🚗 Car Dataset Analysis Project
 
 ## 📖 About the Project
@@ -82,4 +81,3 @@ This project provides valuable insights into the automotive market. For example:
 - Popularity metrics across different vehicle categories.
 
 The analysis highlights how data can be used to understand consumer preferences and market dynamics, offering a clearer picture of the automotive industry's complexity.
-```
