@@ -33,5 +33,5 @@ If you'd like to contribute, please fork the repository and create a pull reques
 This project is open-source and available under the MIT License.
 
 ## Contact
-For any inquiries, reach out via [your email or GitHub profile].
+For any inquiries, reach out via [info@condata.io].
 
